@@ -32,4 +32,4 @@ jobs:
       - name: Build & Deploy to NuxtHub
         uses: nuxt-hub/action@v2
         with:
-          project-key: blanq-okkkk-ae98
+          project-key: blanq-okkkk-rpq4
